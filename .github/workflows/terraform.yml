@@ -5,7 +5,7 @@ on:
     branches:
     - main
     - develop
-    - spin_resources
+    - candidate
   pull_request:
  
 jobs:
